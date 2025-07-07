@@ -11,7 +11,7 @@ I'm a passionate developer who loves building beautiful, responsive web apps. Cu
 - 🔭 Currently working on: **Hospital Management System** (at ALTOS Technologies)
 - 💼 Experience:
   - React Developer at **TenderCall**, Calicut (3 months)
-  - Developer at **ALTOS Technologies** (Current)
+  - Developer at **ALTOS Technologies** (10 months)
 - 🌱 Learning: **Vue.js, Next.js**
 - 🎨 Hobbies: Drawing, Music 🎧
 
